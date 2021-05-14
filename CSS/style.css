@@ -60,7 +60,7 @@ h2 {
   text-align: center;
 }
 
-.BUTTON_BFD:hover {
+.btn:hover {
   border: solid #337FED 1px;
   background: #1E62D0;
   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
